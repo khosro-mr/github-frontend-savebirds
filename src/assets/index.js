@@ -1,0 +1,1 @@
+// This file is a placeholder to ensure the assets directory is included in version control. 
